@@ -61,3 +61,15 @@ body{
     font-size: 19px;
     opacity: 0.8;
 }
+
+@media (max-width:650px) {
+    body{
+        position: relative;
+        place-items: center;
+    }
+    .container{
+        top: 80px;
+        position: absolute;
+        width: 320px;
+    }
+}
