@@ -7,7 +7,7 @@
     font-family: 'Poppins';
 }
 body{
-    min-height: 100vh;
+    min-height: 100svh;
     display: grid;
     place-items: center;
     background: linear-gradient(45deg,#547792, #8E7DBE);
